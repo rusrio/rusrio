@@ -1,16 +1,15 @@
-## Hi there 👋
+# Building secure, usable dApps on EVM
 
-<!--
-**rusrio/rusrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Designing smart contracts with real UX, invariants, and frontend flows that make sense.
 
-Here are some ideas to get you started:
+## Focus now
+- TriaEscrow — P2P escrow built with Next.js 15 (App Router), TypeScript, Tailwind, Server Actions, and Solidity with Foundry.
+- Learning De-Fi from a smart contract engineering perspective
+- Security research in EVM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+`Solidity` `Foundry` `TypeScript` `viem` `wagmi` `HTML/CSS/JS` `SQL`
+
+## Open to
+- Smart contract audits, hardening, security bounties.
+- Web3 integrations with viem/wagmi, and EVM multichain deployments.
