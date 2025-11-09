@@ -11,5 +11,5 @@ Designing smart contracts with real UX, invariants, and frontend flows that make
 `Solidity` `Foundry` `TypeScript` `viem` `wagmi` `HTML/CSS/JS` `SQL`
 
 ## Open to
-- Smart contract audits, hardening, security bounties.
+- Smart contract engineering and protocol audits.
 - Web3 integrations with viem/wagmi, and EVM multichain deployments.
