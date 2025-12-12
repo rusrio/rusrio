@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=100000&color=F7F7F7&vCenter=true&width=285&lines=hi,+I+am+Ruslan.&cursor=false" alt="hi, I am Ruslan" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=450&lines=blockchain+dev.;security+researcher.;defi+enthusiast.+:-)" alt="Roles" />
+</div>
+
 <br>
 
 <h2 align="left">Languages & Tools</h2>
@@ -10,7 +14,9 @@
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" height="30" />
   
-  <br><br> <img src="https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white" height="30" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=wagmi&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" />
@@ -56,6 +62,10 @@
       </td>
     </tr>
     <tr>
+      <td align="center" width="25%" style="padding: 15px;">
+        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" width="100px"><br>
+        <sub>Solidity 101</sub>
+      </td>
       <td align="center" width="25%" style="padding: 15px;">
         <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/uniswap-v3-1749211359.png" width="100px"><br>
         <sub>Uniswap V3</sub>
