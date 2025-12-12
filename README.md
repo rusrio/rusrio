@@ -1,17 +1,6 @@
-<div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=100000&color=F7F7F7&vCenter=true&width=280&lines=hi,+I+am+Ruslan.&cursor=false" alt="hi, I am Ruslan" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1639&pause=1000&color=F7F7F7&vCenter=true&width=450&lines=blockchain+dev.;security+researcher.;defi+enthusiast.+:-)" alt="Roles" />
-  </p>
-</div>
-<p align="center">
-  <a href="mailto:ruslanriorm@yahoo.es">
-    <img src="https://img.shields.io/badge/email-ruslanriorm@yahoo.es-white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/ruslan-rrr/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
-  </a>
-</p>
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=100000&color=F7F7F7&vCenter=true&width=285&lines=hi,+I+am+Ruslan.&cursor=false" alt="hi, I am Ruslan" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=450&lines=blockchain+dev.;security+researcher.;defi+enthusiast.+:-)" alt="Roles" />
+</h1>
 
 <br>
 
@@ -19,7 +8,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Solidity-black?logo=solidity" />
-    <img src="https://img.shields.io/badge/Viem-black?logo=viem" />
+  <img src="https://img.shields.io/badge/Viem-black?logo=viem" />
   <img src="https://img.shields.io/badge/Wagmi-black?logo=wagmi" />
   <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript"/>
   <img src="https://img.shields.io/badge/Java-black?logo=java" />
