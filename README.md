@@ -8,7 +8,7 @@
   <a href="mailto:ruslanriorm@yahoo.es">
     <img src="https://img.shields.io/badge/email-ruslanriorm@yahoo.es-white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/ruslan-rrr/" target="_blank">
+  <a href="https://www.linkedin.com/in/ruslan-rrr/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
 </p>
@@ -18,7 +18,19 @@
 <h2 align="center"> Languages & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,java,js,ts,html,css,sql,react,nodejs,git,docker,linux,vscode&perline=13" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Solidity-black?logo=solidity" />
+    <img src="https://img.shields.io/badge/Viem-black?logo=viem" />
+  <img src="https://img.shields.io/badge/Wagmi-black?logo=wagmi" />
+  <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript"/>
+  <img src="https://img.shields.io/badge/Java-black?logo=java" />
+  <img src="https://img.shields.io/badge/HTML-black?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-black?logo=css" />
+  <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript" />
+  <br>
+  <img src="https://img.shields.io/badge/React-black?logo=react" />
+  <img src="https://img.shields.io/badge/NextJS-black?logo=nextjs" />
+  <img src="https://img.shields.io/badge/Docker-black?logo=docker" />
+  <img src="https://img.shields.io/badge/Linux-black?logo=linux" />
 </div>
 
 <br>
