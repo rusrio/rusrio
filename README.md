@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Email-ruslanriorm@yahoo.es-D14836?style=for-the-badge" alt="Email">
   </a>
   <a href="[https://www.linkedin.com/in/ruslan-rrr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
    </p>
 
@@ -16,12 +16,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity, java, js, ts, html, css, sql&perline=8" alt="Langs" />
+    <img src="https://skillicons.dev/icons?i=solidity,java,js,ts,html,css,sql&perline=8" alt="Langs" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react, nodejs, git, docker, linux, vscode&perline=8" alt="Langs and Tools" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,git,docker,linux,vscode&perline=8" alt="Langs and Tools" />
   </a>
 </p>
 
