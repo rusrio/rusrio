@@ -1,12 +1,15 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=FFFFFF&width=435&lines=Blockchain+Dev;Security+Researcher;Defi+Enthusiast" alt="Typing SVG" /></a>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=100000&color=F7F7F7&vCenter=true&width=280&lines=hi,+I+am+Ruslan.&cursor=false" alt="hi, I am Ruslan" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1639&pause=1000&color=F7F7F7&vCenter=true&width=450&lines=blockchain+dev.;security+researcher.;defi+enthusiast.+:-)" alt="Roles" />
+  </p>
 </div>
 <p align="center">
   <a href="mailto:ruslanriorm@yahoo.es">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/email-ruslanriorm@yahoo.es-white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/ruslan-rrr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
 </p>
 
