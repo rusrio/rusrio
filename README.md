@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I%20am%20Ruslan&fontSize=70&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=pixel&color=gradient&height=220&section=header&text=Hi,%20I%20am%20Ruslan&fontSize=60&animation=fadeIn&fontAlignY=40&pixelSize=10" alt="Header Pixel Art">
 </div>
 
 <h3 align="center">Blockchain Developer | Security Researcher | DeFi Enthusiast</h3>
