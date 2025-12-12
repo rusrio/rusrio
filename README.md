@@ -63,10 +63,6 @@
     </tr>
     <tr>
       <td align="center" width="25%" style="padding: 15px;">
-        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" width="100px"><br>
-        <sub>Solidity 101</sub>
-      </td>
-      <td align="center" width="25%" style="padding: 15px;">
         <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/uniswap-v3-1749211359.png" width="100px"><br>
         <sub>Uniswap V3</sub>
       </td>
