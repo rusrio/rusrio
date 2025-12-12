@@ -4,75 +4,71 @@
 
 <br>
 
-<h2 align="center"> Languages & Tools</h2>
+<h2 align="left">Languages & Tools</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Solidity-black?logo=solidity" />
-  <img src="https://img.shields.io/badge/Viem-black?logo=viem" />
-  <img src="https://img.shields.io/badge/Wagmi-black?logo=wagmi" />
-  <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript"/>
-  <img src="https://img.shields.io/badge/Java-black?logo=java" />
-  <img src="https://img.shields.io/badge/HTML-black?logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-black?logo=css" />
-  <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript" />
+<div align="left">
+  <img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Viem-000000?style=flat-square&logo=viem&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square&logo=wagmi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/React-black?logo=react" />
-  <img src="https://img.shields.io/badge/NextJS-black?logo=nextjs" />
-  <img src="https://img.shields.io/badge/Docker-black?logo=docker" />
-  <img src="https://img.shields.io/badge/Linux-black?logo=linux" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
 </div>
 
 <br>
 
-<h2 align="center"> Certifications & Badges</h2>
+<h2 align="left">Certifications & Badges</h2>
 
 <div align="center">
-  <table style="border: none;">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_png/q_auto/v1751954616/course-completion-pdfs-real/cm9n5t6kv0000jy04r3c84rbg/BBCC-D9KPGJX3YHDTO.pdf" width="90%" alt="Blockchain Basics"><br>
-        <b>Blockchain Basics</b>
+      <td align="center" valign="top" width="50%" style="border: none; padding: 10px;">
+        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_png/q_auto/v1751954616/course-completion-pdfs-real/cm9n5t6kv0000jy04r3c84rbg/BBCC-D9KPGJX3YHDTO.pdf" width="100%" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Blockchain Basics"><br>
+        <br><b>Blockchain Basics</b>
       </td>
-      <td align="center" width="50%">
-        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_png/q_auto/v1751954616/course-completion-pdfs-real/cm9n5t6kv0000jy04r3c84rbg/CLF-TZAQBW9KWC9XZ.pdf" width="90%" alt="Chainlink Fundamentals"><br>
-        <b>Chainlink Fundamentals</b>
+      <td align="center" valign="top" width="50%" style="border: none; padding: 10px;">
+        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_png/q_auto/v1751954616/course-completion-pdfs-real/cm9n5t6kv0000jy04r3c84rbg/CLF-TZAQBW9KWC9XZ.pdf" width="100%" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Chainlink Fundamentals"><br>
+        <br><b>Chainlink Fundamentals</b>
       </td>
     </tr>
   </table>
 
-  <table>
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" width="25%">
+      <td align="center" valign="top" width="25%" style="border: none; padding: 10px;">
         <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" width="100px"><br>
         <sub>Solidity Dev</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" valign="top" width="25%" style="border: none; padding: 10px;">
         <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/foundry-fundamentals.png" width="100px"><br>
         <sub>Foundry</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" valign="top" width="25%" style="border: none; padding: 10px;">
         <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/security-1749210968.png" width="100px"><br>
         <sub>SC Security</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" valign="top" width="25%" style="border: none; padding: 10px;">
         <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/full-stack.png" width="100px"><br>
         <sub>Full-Stack Web3</sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" width="100px"><br>
-        <sub>Solidity 101</sub>
-      </td>
-      <td align="center" width="25%">
+      <td align="center" valign="top" width="25%" style="border: none; padding: 10px;">
         <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/uniswap-v3-1749211359.png" width="100px"><br>
         <sub>Uniswap V3</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" valign="top" width="25%" style="border: none; padding: 10px;">
         <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/zk-fundamentals-1749211573.png" width="100px"><br>
         <sub>ZK Proofs</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" valign="top" width="25%" style="border: none; padding: 10px;">
         <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/advanced-wallets.png" width="100px"><br>
         <sub>Wallet Security</sub>
       </td>
