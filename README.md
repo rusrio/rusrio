@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=220&section=header&text=Hi,%20I%20am%20Ruslan&fontSize=40&fontAlignY=40&desc=Blockchain%20Dev%20%7C%20Security%20%7C%20DeFi&descSize=20&descAlignY=65&font=Press%20Start%202P&theme=dark" alt="Header Pixel">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=FFFFFF&width=435&lines=Blockchain+Dev;Security+Researcher;Defi+Enthusiast" alt="Typing SVG" /></a>
 </div>
-
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=FFFFFF&width=435&lines=Blockchain+Dev;Security+Researcher;Defi+Enthusiast" alt="Typing SVG" /></a></h3>
-
 <p align="center">
   <a href="mailto:ruslanriorm@yahoo.es">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
