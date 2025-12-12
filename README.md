@@ -29,14 +29,14 @@
 <h2 align="left">Certifications & Badges</h2>
 
 <div align="center">
-  <table style="border: none; border-collapse: separate; border-spacing: 15px;">
+  <table style="border: none; border-collapse: collapse; border-spacing: 15px;">
     <tr>
-      <td align="center" width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_png/q_auto/v1751954616/course-completion-pdfs-real/cm9n5t6kv0000jy04r3c84rbg/BBCC-D9KPGJX3YHDTO.pdf" width="100%" style="border-radius: 6px;" alt="Blockchain Basics"><br>
+      <td align="center" width="25%" style="padding: 15px;">
+        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_png/q_auto/v1751954616/course-completion-pdfs-real/cm9n5t6kv0000jy04r3c84rbg/BBCC-D9KPGJX3YHDTO.pdf" width="220px" style="border-radius: 6px;" alt="Blockchain Basics"><br>
         <br><b>Blockchain Basics</b>
       </td>
-      <td align="center" width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_png/q_auto/v1751954616/course-completion-pdfs-real/cm9n5t6kv0000jy04r3c84rbg/CLF-TZAQBW9KWC9XZ.pdf" width="100%" style="border-radius: 6px;" alt="Chainlink Fundamentals"><br>
+      <td align="center" width="25%" style="padding: 15px;">
+        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_png/q_auto/v1751954616/course-completion-pdfs-real/cm9n5t6kv0000jy04r3c84rbg/CLF-TZAQBW9KWC9XZ.pdf" width="220px" style="border-radius: 6px;" alt="Chainlink Fundamentals"><br>
         <br><b>Chainlink Fundamentals</b>
       </td>
     </tr>
