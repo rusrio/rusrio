@@ -1,35 +1,36 @@
-# Ruslan[cite: 3]
+# Ruslan
 
 <p align="center">
-  <img src="<img width="1080" height="1619" alt="image" src="https://github.com/user-attachments/assets/ea9f8a2e-517f-4918-bbd1-a4f8062e8252" />
-" alt="Ruslan" width="480" />
+  <img src="[https://rusrio.com/avatar.png](https://www.rusrio.com/gladday.avif)" alt="Ruslan" width="480" />
 </p>
 
 <p align="center">
   <a href="https://rusrio.com">rusrio.com →</a>
 </p>
 
----
+## Now
 
-## Now[cite: 4]
+ai agents & agency ops<br>
+﹂Co-Founder @ [Providence Crafts](https://providencecrafts.com)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂architecting autonomous ai agents solving real-world operational workflows<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂bootstrapping an ai agency from zero: engineering, systems architecture & client delivery
 
-ai agents & agency ops
-﹂Co-Founder @ [Providence Crafts](https://providencecrafts.com)[cite: 1]
-    ﹂architecting autonomous ai agents solving real-world operational workflows[cite: 1]
-    ﹂bootstrapping an ai agency from zero: engineering, systems architecture & client delivery
-
----
+<br>
 
 ## Background & Track Record
 
-protocol security & web3[cite: 1, 3]
-﹂smart contract engineering & evm internals[cite: 1]
-    ﹂Cohort Winner @ Uniswap Hook Incubator (Atrium Academy@UHI8) with Bundl[cite: 1]
-    ﹂security research & vulnerability assessment across hook architectures & protocol logic[cite: 1, 3]
-    ﹂fullstack web3 systems built across solidity, rust, typescript & viem[cite: 1, 3]
+protocol security & web3<br>
+﹂smart contract engineering & evm internals<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂Cohort Winner @ Uniswap Hook Incubator (Atrium Academy) with Bundl<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂security research & vulnerability assessment across hook architectures & protocol logic<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂fullstack web3 systems built across solidity, rust, typescript & viem
 
-enterprise engineering
-﹂fullstack development & tooling
-    ﹂shipped platforms across fintech (CaixaBank @ Capgemini)[cite: 2], travel tech (btravel.com)[cite: 1] & enterprise apis[cite: 2]
+<br>
+
+enterprise engineering<br>
+﹂fullstack development & tooling<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂shipped platforms across fintech (CaixaBank @ Capgemini), travel tech (btravel.com) & enterprise apis
+
+<br>
 
 **Inquiries / Contact:** ai agent implementations & collaborations · [providencecrafts.com](https://providencecrafts.com) · [rusrio.com](https://rusrio.com)
