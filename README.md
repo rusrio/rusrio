@@ -1,25 +1,35 @@
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=100000&color=F7F7F7&vCenter=true&width=285&lines=hi,+I+am+Ruslan.&cursor=false" alt="hi, I am Ruslan" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=450&lines=blockchain+dev.;security+researcher.;defi+enthusiast.+:-)" alt="Roles" />
-</div>
+# Ruslan[cite: 3]
 
-<br>
+<p align="center">
+  <img src="<img width="1080" height="1619" alt="image" src="https://github.com/user-attachments/assets/ea9f8a2e-517f-4918-bbd1-a4f8062e8252" />
+" alt="Ruslan" width="480" />
+</p>
 
-<h2 align="left">Languages & Tools</h2>
+<p align="center">
+  <a href="https://rusrio.com">rusrio.com →</a>
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="30" />
-  <br>
-  <img src="https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=wagmi&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="30" />
-</div>
+---
 
-<br>
+## Now[cite: 4]
 
+ai agents & agency ops
+﹂Co-Founder @ [Providence Crafts](https://providencecrafts.com)[cite: 1]
+    ﹂architecting autonomous ai agents solving real-world operational workflows[cite: 1]
+    ﹂bootstrapping an ai agency from zero: engineering, systems architecture & client delivery
 
+---
+
+## Background & Track Record
+
+protocol security & web3[cite: 1, 3]
+﹂smart contract engineering & evm internals[cite: 1]
+    ﹂Cohort Winner @ Uniswap Hook Incubator (Atrium Academy@UHI8) with Bundl[cite: 1]
+    ﹂security research & vulnerability assessment across hook architectures & protocol logic[cite: 1, 3]
+    ﹂fullstack web3 systems built across solidity, rust, typescript & viem[cite: 1, 3]
+
+enterprise engineering
+﹂fullstack development & tooling
+    ﹂shipped platforms across fintech (CaixaBank @ Capgemini)[cite: 2], travel tech (btravel.com)[cite: 1] & enterprise apis[cite: 2]
+
+**Inquiries / Contact:** ai agent implementations & collaborations · [providencecrafts.com](https://providencecrafts.com) · [rusrio.com](https://rusrio.com)
