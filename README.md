@@ -1,7 +1,7 @@
 # Ruslan
 
 <p align="center">
-  <img src="[https://rusrio.com/avatar.png](https://www.rusrio.com/gladday.avif)" alt="Ruslan" width="480" />
+<img width="836" height="239" alt="images" src="https://github.com/user-attachments/assets/bc9c160b-3f49-4793-b5b0-83382f6c227a" />
 </p>
 
 <p align="center">
